@@ -1,2 +1,2 @@
 # TwitterDApp
-Small project where it is used: React, solidity, Hardhat.
+Small project using: React, solidity, Hardhat.
